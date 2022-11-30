@@ -96,3 +96,10 @@ footer {
   background-color: #f2f3f6;
   text-align: center;
 }
+
+.App-logo {
+  left: 50%;
+  height: 40vmin;
+  pointer-events: none;
+  z-index: 0;
+}
